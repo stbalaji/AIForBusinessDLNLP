@@ -23,3 +23,5 @@ Dataset Details : This dataset is as provided by Kaggle. The dataset has the fol
           tweet_created
           tweet_location
           user_timezone
+
+Few many Attribtues (or Columns or Features) of interest could be : airline_sentiment and text.
