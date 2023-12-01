@@ -29,6 +29,7 @@ Few many Attribtues (or Columns or Features) of interest could be : airline_sent
 Hands-on Exercises to learn NLP
 a) Lesson 01 NLP Warm-up:
    In this first Hands-on Exercise students will be able to work on various Text Processing concepts as it relates to NLP:
+   
              - Reading Text documents
              - Manipulating Strings
              - NLTK Library 
@@ -42,11 +43,12 @@ a) Lesson 01 NLP Warm-up:
 
 b) Lesson 02 End to End NLP Example: Airline Sentiment Classification Case Study
    In this second lesson we will use a proper dataset to built a Classfication model on the back of NLP based text data processing.
-    -  Data Acquistion
-    -  Data Processing 
-    -  Data Preparation using NLP concepts like Stop Words, Stemming etc.
-    -  Vectorization, Embedding
-    -  Train and Test split.
-    -  Build a Classification Model
-    -  Model Inference
-    -  Evaluation and Application
+   
+              -  Data Acquistion
+              -  Data Processing 
+              -  Data Preparation using NLP concepts like Stop Words, Stemming etc.
+              -  Vectorization, Embedding
+              -  Train and Test split.
+              -  Build a Classification Model
+              -  Model Inference
+              -  Evaluation and Application
