@@ -26,9 +26,11 @@ Dataset Details : This dataset is as provided by Kaggle. The dataset has the fol
 
 Few many Attribtues (or Columns or Features) of interest could be : airline_sentiment and text.
 
-Hands-on Exercises to learn NLP
-a) Lesson 01 NLP Warm-up:
-   In this first Hands-on Exercise students will be able to work on various Text Processing concepts as it relates to NLP:
+**Hands-on Exercises to learn NLP
+**
+
+**a) Lesson 01 NLP Warm-up:
+**   In this first Hands-on Exercise students will be able to work on various Text Processing concepts as it relates to NLP:
    
              - Reading Text documents
              - Manipulating Strings
@@ -41,8 +43,8 @@ a) Lesson 01 NLP Warm-up:
              - Lemmatization
              - Parts of Speech
 
-b) Lesson 02 End to End NLP Example: Airline Sentiment Classification Case Study
-   In this second lesson we will use a proper dataset to built a Classfication model on the back of NLP based text data processing.
+**b) Lesson 02 End to End NLP Example: **
+   Airline Sentiment Classification Case Study. In this second lesson we will use a proper dataset to built a Classfication model on the back of NLP based text data processing.
    
               -  Data Acquistion
               -  Data Processing 
