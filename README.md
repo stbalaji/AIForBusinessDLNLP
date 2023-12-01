@@ -43,6 +43,12 @@ a) Lesson 01 NLP Warm-up:
              - Lemmatization
              - Parts of Speech
 
+
+NLP Pipeline Processing : Walkthrough
+![AIForBusinessNLPPipeline](https://github.com/stbalaji/AIForBusinessDLNLP/assets/42055895/f06aa34a-3425-4f2d-9c93-d96a671a2f64)
+
+
+
 b) Lesson 02 End to End NLP Example:
    Airline Sentiment Classification Case Study. In this second lesson we will use a proper dataset to built a Classfication model on the back of NLP based text data processing.
    
